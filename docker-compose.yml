@@ -1,0 +1,4 @@
+services:
+  toogoodtogo:
+    build:
+      context: .
